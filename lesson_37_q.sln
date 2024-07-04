@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_37_q", "lesson_37_q\lesson_37_q.vcxproj", "{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Debug|x64.ActiveCfg = Debug|x64
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Debug|x64.Build.0 = Debug|x64
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Debug|x86.Build.0 = Debug|Win32
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Release|x64.ActiveCfg = Release|x64
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Release|x64.Build.0 = Release|x64
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Release|x86.ActiveCfg = Release|Win32
+		{4BB13B31-DCAD-4CA1-9ECA-4642CEF7956E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4CD307B-5D3D-4A36-95CC-06D2CD0ADC29}
+	EndGlobalSection
+EndGlobal
